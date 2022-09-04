@@ -1,0 +1,17 @@
+{
+  "entities": [
+    {
+      "name": "agora",
+      "age": "12",
+      "id": 1
+    },
+    {
+      "name": "fernando",
+      "age": "1234",
+      "id": 2
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
